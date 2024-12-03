@@ -1,7 +1,7 @@
 from collections import Counter
 # PART 1
-list1 = open("Day 1\Inputs1.txt", "r")
-list2 = open("Day 1\Inputs2.txt", "r")
+list1 = open("Day_1\Inputs1.txt", "r")
+list2 = open("Day_1\Inputs2.txt", "r")
 sorted1 = sorted(list1)
 sorted2 = sorted(list2)
 total = 0
